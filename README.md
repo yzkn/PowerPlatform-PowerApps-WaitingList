@@ -1,2 +1,3 @@
-# PowerPlatform-PowerApps-WaitingList
- 順番待ちアプリ
+# Muko-machi
+
+順番待ちアプリ
